@@ -22,7 +22,7 @@ Class Parking {
 
         if ($this->hasAvailableSpots()) {
 
-            echo "Welcome, please go in";
+            echo "Welcome, please go in <br/>";
 
             echo 'The following spots are available: <br/>';
             
